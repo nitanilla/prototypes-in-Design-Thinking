@@ -1,4 +1,4 @@
-# prototypes-in-Design-Thinking
+# Prototypes in Design Thinking
 
 This repository publish the prototypes as part of the project Towards responsible AI for local journalism https://www.algorithmic.news
 
